@@ -41,7 +41,7 @@ function App() {
             </h1>
           </motion.div>
           <motion.a 
-            href="https://github.com" 
+            href="https://github.com/MatrixCollab/matrix-frontend-bootcamp-roadmap.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-sm bg-[#1a1a1a] hover:bg-[#252525] transition-colors px-4 py-2 rounded-md text-[#c1ff00] font-medium"
