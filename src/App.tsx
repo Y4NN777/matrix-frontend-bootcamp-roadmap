@@ -31,7 +31,7 @@ function App() {
           >
             <div className="h-10 w-10">
               <img 
-                src="assets\matrix-logo.jpg"
+                src="/matrix-logo.jpg"
                 alt="Matrix Logo"
                 className="w-full h-full object-contain"
               />
