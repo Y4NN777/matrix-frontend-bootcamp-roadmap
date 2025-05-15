@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #000000;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
+
+.glow {
+  box-shadow: 0 0 10px rgba(193, 255, 0, 0.3);
+}
+
+@keyframes matrix-rain {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 0% 100%;
+  }
+}
+
+.matrix-bg {
+  animation: matrix-rain 20s linear infinite;
+}
