@@ -11,8 +11,7 @@ A comprehensive roadmap for learning frontend development, built with React, Typ
 * [Technologies Used](#technologies-used)
 * [Getting Started](#getting-started)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+  
 
 **Introduction**
 ---------------
