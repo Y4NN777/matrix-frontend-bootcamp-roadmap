@@ -54,7 +54,7 @@ This project is a frontend bootcamp roadmap, designed to help learners navigate 
 ```
     npm run dev
 ```
-4. Open the application in your web browser: `http://localhost:3000`
+4. Open the application in your web browser: `http://localhost:5173`
 
 **Roadmap**
 ------------
